@@ -1,0 +1,19 @@
+{
+  "name": "react-rails-sample",
+  "version": "1.0.0",
+  "description": "== README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yo-iida/react-rails-sample.git"
+  },
+  "author": "yo-iida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yo-iida/react-rails-sample/issues"
+  },
+  "homepage": "https://github.com/yo-iida/react-rails-sample#readme"
+}
