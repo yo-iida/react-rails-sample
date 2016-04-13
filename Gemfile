@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'font-awesome-sass', '~> 4.5.0'
 gem 'bcrypt', '~> 3.1.7'
+gem 'mysql2'
 
 # フロントエンド関連
 gem 'jquery-ui-rails', '~> 5.0', '>= 5.0.5'

@@ -138,6 +138,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.4)
     multi_json (1.11.2)
+    mysql2 (0.4.2)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     parser (2.3.0.7)
@@ -317,6 +318,7 @@ DEPENDENCIES
   knapsack
   letter_opener-iso-2022-jp
   letter_opener_web
+  mysql2
   poltergeist
   pry-byebug
   pry-doc
